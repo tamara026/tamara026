@@ -17,8 +17,15 @@ Being a junior software tester at CityHome is my first professional position in 
 
 ## My Projects
 
-1. CityHome
+**1. CityHome**
    + [Test cases](https://docs.google.com/spreadsheets/d/1SKOzREDbi30gKLxgSaKxKzKc-83hn-F2_-RJrp7gndM/edit?usp=sharing)
+   + [Bug report](https://docs.google.com/spreadsheets/d/1EsTFqvUm-x6p-R8Knp3rziel_kVThVU0HUXcFb8BpsU/edit?usp=sharing)
+     
+  
+**2. Bromley Education Matters**
+   + [Test cases](https://docs.google.com/spreadsheets/d/1sBQx6XcLH2kHlfuYJIX1AS_WTNVm1p2JF-c1YMQbxwc/edit?usp=sharing)
+   + [Bug report](https://docs.google.com/spreadsheets/d/1h9ThEZYGoLbu6XJgRaQTrejF8Y0nhHKowg7584Am_hI/edit?usp=sharing)
+   
 
 ## Tech Skills 🔧
 + Rest API testing
