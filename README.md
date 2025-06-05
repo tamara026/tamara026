@@ -75,23 +75,36 @@ Being a junior software tester at CityHome is my first professional position in 
 
 + [Certificate](https://www.udemy.com/certificate/UC-5ae6099b-5e2f-48a8-b4ea-b195f0dbdc51/)
 
-Exploratory tests;
+- Exploratory tests;
 
-Functional and non-functional testing;
+- Functional and non-functional testing;
 
-Black box and white box testing;
+- Black box and white box testing;
 
-Smoke/sanity testing;
+- Smoke/sanity testing;
 
-Regression testing;
+- Regression testing;
 
-Writing test cases;
+- Writing test cases;
 
-Bug reporting;
+- Bug reporting;
 
-Web app testing;
+- Web app testing;
 
-SQL basics.
+- SQL basics.
+
+
+**uTest Academy**
+
+- Exploratory tests;
+
+- Bug reporting;
+
+- Screenshots and screen recordings;
+
+- Browser and mobile device logs;
+
+- API testing.
 
 ## Books
 + Roman Savin: Testing dot com
